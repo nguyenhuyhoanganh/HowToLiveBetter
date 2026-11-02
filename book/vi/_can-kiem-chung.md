@@ -29,3 +29,10 @@ File này ghi lại những chỗ chưa đối chiếu được với văn bản
 - Điều 40: quy định công bố sản phẩm với dầu ăn đóng gói; QCVN 8-1:2011/BYT giới hạn aflatoxin.
 - Điều 44: quy định tiêm phòng dại, quản lý chó nuôi (Luật Thú y 2015 và văn bản hướng dẫn).
 - Điều 47: tỷ lệ nhiễm sán lá gan nhỏ ở Việt Nam, các tỉnh lưu hành; giá xét nghiệm.
+
+## Mục 3
+- Điều 13: Bộ luật Lao động 2019, giờ làm việc bình thường và giới hạn giờ làm thêm (đối chiếu số điều).
+- Điều 18: giờ hoạt động đường dây Ngày Mai 096 306 1414.
+- Điều 19: Bộ luật Tố tụng hình sự 2015 (thời hạn giải quyết tố giác, tin báo, khiếu nại quyết định không khởi tố), Luật Xử lý vi phạm hành chính 2012 sửa đổi 2020, Luật Khiếu nại 2011, Luật Tố cáo 2018, Điều 364 Bộ luật Hình sự (đưa hối lộ): cần đọc văn bản gốc, ghi đúng số điều, khoản và thời hạn.
+- Điều 26: nơi làm liệu pháp hành vi nhận thức cho mất ngủ ở Việt Nam; thuốc ngủ thuộc nhóm thuốc hướng thần (Thông tư hiện hành).
+- Điều 27: giá máy thở CPAP và các trung tâm đa ký giấc ngủ ở Việt Nam.
