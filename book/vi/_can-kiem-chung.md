@@ -16,3 +16,16 @@ File này ghi lại những chỗ chưa đối chiếu được với văn bản
 - Điều 42, 46: số điều Luật An toàn, vệ sinh lao động 2015 (Điều 6) và quy chuẩn Việt Nam về làm việc trong không gian hạn chế.
 - Điều 44, 45: danh mục thuốc chống đông và thuốc điều trị viêm gan C được bảo hiểm y tế chi trả.
 - Điều 48: thống kê ngộ độc axit bongkrekic ở Việt Nam (nếu có).
+
+## Mục 2
+- Điều 2, 6: Nghị định 371/2025/NĐ-CP (mức phạt hút thuốc nơi cấm, sử dụng thuốc lá điện tử, thuốc lá nung nóng) và dự thảo Luật Phòng, chống tác hại của thuốc lá sửa đổi (đã được Quốc hội thông qua chưa); mức phạt cụ thể.
+- Điều 3, 5: varenicline, bupropion và thuốc thay thế nicotine hiện có ở Việt Nam, giá; đường dây 1800 6606 (Bệnh viện Bạch Mai) đối chiếu giờ hoạt động.
+- Điều 7: Luật Thuế tiêu thụ đặc biệt 2025, thuế suất và thời điểm áp dụng với nước giải khát có đường.
+- Điều 9: muối ít natri bán ở Việt Nam, có bổ sung i-ốt hay không.
+- Điều 10: dịch vụ nha khoa nào bảo hiểm y tế chi trả.
+- Điều 12: khuyến cáo xét nghiệm mỡ máu của Bộ Y tế/Hội Tim mạch Việt Nam (hiện dẫn khuyến cáo Trung Quốc 2023).
+- Điều 19: số điều Luật Phòng, chống tác hại của rượu, bia 2019 về lái xe và bán cho người dưới 18 tuổi.
+- Điều 39: Bộ luật Lao động 2019, số điều về giờ làm đêm và phụ cấp 30%.
+- Điều 40: quy định công bố sản phẩm với dầu ăn đóng gói; QCVN 8-1:2011/BYT giới hạn aflatoxin.
+- Điều 44: quy định tiêm phòng dại, quản lý chó nuôi (Luật Thú y 2015 và văn bản hướng dẫn).
+- Điều 47: tỷ lệ nhiễm sán lá gan nhỏ ở Việt Nam, các tỉnh lưu hành; giá xét nghiệm.
