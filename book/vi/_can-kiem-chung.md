@@ -36,3 +36,7 @@ File này ghi lại những chỗ chưa đối chiếu được với văn bản
 - Điều 19: Bộ luật Tố tụng hình sự 2015 (thời hạn giải quyết tố giác, tin báo, khiếu nại quyết định không khởi tố), Luật Xử lý vi phạm hành chính 2012 sửa đổi 2020, Luật Khiếu nại 2011, Luật Tố cáo 2018, Điều 364 Bộ luật Hình sự (đưa hối lộ): cần đọc văn bản gốc, ghi đúng số điều, khoản và thời hạn.
 - Điều 26: nơi làm liệu pháp hành vi nhận thức cho mất ngủ ở Việt Nam; thuốc ngủ thuộc nhóm thuốc hướng thần (Thông tư hiện hành).
 - Điều 27: giá máy thở CPAP và các trung tâm đa ký giấc ngủ ở Việt Nam.
+
+## Mục 4
+- Điều 14: giá thuê giúp việc theo giờ ở các thành phố lớn Việt Nam (ước lượng, chưa có nguồn).
+- Điều 15, 16, 18: số liệu thời gian dùng mạng, xem tivi, đi làm hiện lấy từ Trung Quốc và Mỹ; cần tìm điều tra sử dụng thời gian hoặc báo cáo tương đương của Việt Nam (Tổng cục Thống kê, DataReportal...).
